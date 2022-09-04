@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrouter_api_vuejs"]=self["webpackChunkrouter_api_vuejs"]||[]).push([[532],{4532:function(n,u,e){e.r(u),e.d(u,{default:function(){return f}});var r=e(3396);const t=(0,r._)("h2",null,"404",-1),a=(0,r._)("p",null,"Page not found",-1);function l(n,u,e,l,o,s){return(0,r.wg)(),(0,r.iD)(r.HY,null,[t,a],64)}var o={},s=e(89);const c=(0,s.Z)(o,[["render",l]]);var f=c}}]);
+//# sourceMappingURL=532.ce9def3b.js.map
